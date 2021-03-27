@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/primary-version/static/css/main.b960b022.chunk.css",
+    "main.js": "/primary-version/static/js/main.d8e94621.chunk.js",
+    "main.js.map": "/primary-version/static/js/main.d8e94621.chunk.js.map",
+    "runtime-main.js": "/primary-version/static/js/runtime-main.a1826573.js",
+    "runtime-main.js.map": "/primary-version/static/js/runtime-main.a1826573.js.map",
+    "static/css/2.60fe3ce0.chunk.css": "/primary-version/static/css/2.60fe3ce0.chunk.css",
+    "static/js/2.d99c6299.chunk.js": "/primary-version/static/js/2.d99c6299.chunk.js",
+    "static/js/2.d99c6299.chunk.js.map": "/primary-version/static/js/2.d99c6299.chunk.js.map",
+    "static/js/3.4e0f9ecd.chunk.js": "/primary-version/static/js/3.4e0f9ecd.chunk.js",
+    "static/js/3.4e0f9ecd.chunk.js.map": "/primary-version/static/js/3.4e0f9ecd.chunk.js.map",
+    "index.html": "/primary-version/index.html",
+    "static/css/2.60fe3ce0.chunk.css.map": "/primary-version/static/css/2.60fe3ce0.chunk.css.map",
+    "static/css/main.b960b022.chunk.css.map": "/primary-version/static/css/main.b960b022.chunk.css.map",
+    "static/js/2.d99c6299.chunk.js.LICENSE.txt": "/primary-version/static/js/2.d99c6299.chunk.js.LICENSE.txt",
+    "static/media/Ashlyn-So-logo.cd0c67d0.png": "/primary-version/static/media/Ashlyn-So-logo.cd0c67d0.png",
+    "static/media/tailwind.css": "/primary-version/static/media/slick.c94f7671.ttf",
+    "static/media/about-image.e769368a.png": "/primary-version/static/media/about-image.e769368a.png",
+    "static/media/circle-profile1.3e51e3b0.png": "/primary-version/static/media/circle-profile1.3e51e3b0.png",
+    "static/media/circle-profile2.8a77df4d.png": "/primary-version/static/media/circle-profile2.8a77df4d.png",
+    "static/media/circle-profile3.acd842c9.png": "/primary-version/static/media/circle-profile3.acd842c9.png",
+    "static/media/circle-profile4.8c61f192.png": "/primary-version/static/media/circle-profile4.8c61f192.png",
+    "static/media/de-witt.0000c8fc.webp": "/primary-version/static/media/de-witt.0000c8fc.webp",
+    "static/media/elana-hero-feature.795ac7ee.png": "/primary-version/static/media/elana-hero-feature.795ac7ee.png",
+    "static/media/hair-decor-logo.a9f26243.png": "/primary-version/static/media/hair-decor-logo.a9f26243.png",
+    "static/media/kccflogo.d2805857.png": "/primary-version/static/media/kccflogo.d2805857.png",
+    "static/media/keepface-logo.0f75331a.png": "/primary-version/static/media/keepface-logo.0f75331a.png",
+    "static/media/marine-toys-for-tots-bear-with-logo.6deaa0a8.jpg": "/primary-version/static/media/marine-toys-for-tots-bear-with-logo.6deaa0a8.jpg",
+    "static/media/noun_star.1e8bbcba.png": "/primary-version/static/media/noun_star.1e8bbcba.png",
+    "static/media/nyu-stern-vector-logo.05e17827.svg": "/primary-version/static/media/nyu-stern-vector-logo.05e17827.svg",
+    "static/media/scarola-photography-logo.68adadc0.webp": "/primary-version/static/media/scarola-photography-logo.68adadc0.webp",
+    "static/media/shamans-logo-ai.2e7a689e.webp": "/primary-version/static/media/shamans-logo-ai.2e7a689e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1826573.js",
+    "static/css/2.60fe3ce0.chunk.css",
+    "static/js/2.d99c6299.chunk.js",
+    "static/css/main.b960b022.chunk.css",
+    "static/js/main.d8e94621.chunk.js"
+  ]
+}
